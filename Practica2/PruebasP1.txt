@@ -1,0 +1,6 @@
+5.1 - Suma de enteros SS, 32 bits, Acarreo en registro \n
+T#1 T#2 T#3 T#4 T#5 T#6 T#7 T#8 T#9 5.2 - Suma de enteros SS, 32 bits, Extensión de ceros \n
+T#1 T#2 T#3 T#4 T#5 T#6 T#7 T#8 T#9 5.3 - Suma de enteros CS, 32 bits, Extensión de signo \n
+T#1 T#2 T#3 T#4 T#5 T#6 T#7 T#8 T#9 T#10 T#11 T#12 T#13 T#14 T#15 T#16 T#17 T#18 T#19 5.4 - Media, 32 bits \n
+T#1 T#2 T#3 T#4 T#5 T#6 T#7 T#8 T#9 T#10 T#11 T#12 T#13 T#14 T#15 T#16 T#17 T#18 T#19 5.5 - Media, 64 bits\n
+T#1 T#2 T#3 T#4 T#5 T#6 T#7 T#8 T#9 T#10 T#11 T#12 T#13 T#14 T#15 T#16 T#17 T#18 T#19 
